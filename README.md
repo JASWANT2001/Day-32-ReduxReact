@@ -15,7 +15,7 @@ Welcome to my shopping website project! This project is built using React and in
 ## Demo
 
 This project is deployed on Netlify The link is bellow,
-Here's a live demo of the project: https://shopping-cart-using-context-api-guvi.netlify.app/ [![Vercel Status](https://day-32-redux-react.vercel.app/)
+Here's a live demo of the project: [![Vercel Status](https://day-32-redux-react.vercel.app/)
 
 ## Features
 
