@@ -2,8 +2,6 @@
 
 Welcome to my shopping website project! This project is built using React and includes features like a cart functionality, product display, and more.
 
-<img src='./public//images/Shopping Cart-Context API-SHANMUGAM - Google Chrome 2023-08-23 19-07-18.gif'>
-
 ## Table of Contents
 
 - [Demo](#demo)
@@ -17,7 +15,7 @@ Welcome to my shopping website project! This project is built using React and in
 ## Demo
 
 This project is deployed on Netlify The link is bellow,
-Here's a live demo of the project: https://shopping-cart-using-context-api-guvi.netlify.app/ [![Netlify Status](https://api.netlify.com/api/v1/badges/722c8d25-06e5-4e64-868b-70e3b7254d4f/deploy-status)](https://app.netlify.com/sites/shopping-cart-using-context-api-guvi/deploys)
+Here's a live demo of the project: https://shopping-cart-using-context-api-guvi.netlify.app/ [![Vercel Status](https://api.netlify.com/api/v1/badges/722c8d25-06e5-4e64-868b-70e3b7254d4f/deploy-status)]()
 
 ## Features
 
@@ -31,7 +29,7 @@ Here's a live demo of the project: https://shopping-cart-using-context-api-guvi.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Shanmugamrskfamily/shopping-cart-using-context-api.git
+   git clone https://github.com/JASWANT2001/Day-32-ReduxReact.git
 
    ```
 
